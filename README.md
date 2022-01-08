@@ -45,9 +45,9 @@ We  propose an online topic modeling designed as a tool to organize, search, and
 The topic model can accomplish the task of clustering and classification of  data. Furthermore, each topic is interpreted as a probability distribution over words, a topic model can produce a more understandable result and thus may help a data scientist to interpret the finding.
  
 ## Authors 
-- [@Aya11salem] (http://github.com/Alya11salem)
-- [@aofahad] (https://github.com/aofahad)
-- [@Amoraished] (https://github.com/Amoraished)
+- [@Aya11salem](http://github.com/Alya11salem)
+- [@aofahad](https://github.com/aofahad)
+- [@Amoraished](https://github.com/Amoraished)
 - [@sole3](https://github.com/sole3)
 
 
